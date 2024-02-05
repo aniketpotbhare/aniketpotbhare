@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @aniketpotbhare
-- 👨‍💻 I’m currently learning JAVA FULL STACK DEVELOPMENT.
+- 👨‍💻 I’m currently learning MERN FULL STACK DEVELOPMENT.
+- 
 
 
 
