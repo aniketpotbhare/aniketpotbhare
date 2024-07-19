@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aniketpotbhare
 - 👨‍💻 I’m currently learning MERN FULL STACK DEVELOPMENT.
-- 
+- 📍NAGPUR | PUNE
 
 
 
